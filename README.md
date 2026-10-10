@@ -17,17 +17,21 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColor_list=0,5,15,30&height=120&section=header&text=HI%20👋,%20I'M%20SUVAM%20MISTRY&fontSize=32&fontColor=38BDF8&animation=glow&fontAlignY=50" width="100%" />
 </div>
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColor_list=0,2,10,20,35&height=140&section=header&text=SUVAM%20MISTRY%20//%20DEV-HOST&fontSize=28&fontColor=00FFCC&animation=scaleIn&fontAlignY=45" width="100%" />
+</div>
+
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=16&duration=3000&pause=1000&color=00FFCC&center=true&vCenter=true&width=500&height=35&lines=%3E+FRONTEND+%26+FULL-STACK+DEVELOPER;%3E+CYBERSECURITY+%26+SYSTEMS+STUDENT;%3E+BUILDING+SECURE+WEB+APPLICATIONS" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&weight=700&size=16&duration=3500&pause=1000&color=00FFCC&center=true&vCenter=true&width=550&height=35&lines=%3E+INITIALIZING_NEURAL_LINK...;%3E+ROLE%3A+FRONTEND_+_FULL-STACK_ARCHITECT;%3E+SPECIALTY%3A+SECURE_WEB_APPS_+_CYBER_UI;%3E+STATUS%3A+SYSTEM_ONLINE_%5BINDIA%5D" alt="Typing SVG" /></a>
 </p>
 
 ---
 
-### 🌐 // SYSTEM_STATUS: ONLINE
+### 🎛️ // SYSTEM_DIAGNOSTICS & TELEMETRY
 
-```yaml
-user: Suvam Mistry
-location: India [🇮🇳]
-core_focus: [Frontend Architecture, PWA Development, Cybersecurity]
-terminal_env: Windows 10 / Linux / VS Code
-communication: suvamrkmscc623@gmail.com
+```ascii
+ ╔════════════════════════════════════════════════════════════════╗
+ ║ [SYSTEM]: Windows_10 // Terminal Active                        ║
+ ║ [FOCUS]:  Frontend Systems, PWAs, & Cybersecurity Arch         ║
+ ║ [COMMS]:  suvamrkmscc623@gmail.com                             ║
+ ╚════════════════════════════════════════════════════════════════╝
