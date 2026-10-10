@@ -149,21 +149,18 @@ Only keep projects that are published or that you genuinely want to showcase.
 
 <img width="80%" src="https://streak-stats.demolab.com?user=suvam-m09&hide_border=true&background=0D1117&ring=22D3EE&fire=A78BFA&currStreakLabel=22D3EE&sideLabels=CBD5E1&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8" alt="GitHub contribution streak"/>
 
-<br/><br/>
-<img src="https://github-profile-trophy.vercel.app/?username=suvam-m09&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" width="100%" alt="GitHub profile trophies"/>
-
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=suvam-m09&theme=tokyonight&utcOffset=5.5" alt="Productive Time Graph" width="50%" />
+</p>
 </div>
 
 ---
 
 ## `05 // CONTRIBUTION_ACTIVITY`
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=suvam-m09&bg_color=0D1117&color=22D3EE&line=8B5CF6&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph"/>
-
-</div>
-
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Suvam-M09&theme=tokyonight" alt="GitHub Profile Details" width="100%" />
+</p>
 ---
 
 ## `06 // DEVELOPER_PHILOSOPHY`
