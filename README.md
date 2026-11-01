@@ -1,6 +1,7 @@
- <!-- Replace the existing README.md with this content -->
+
 
 <div align="center">
+
 
 <img src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:020617,35:0F172A,70:312E81,100:0891B2&text=SUVAM%20MISTRY&fontSize=58&fontColor=E0F2FE&fontAlignY=42&desc=FRONTEND%20DEVELOPER%20%7C%20TECH%20ENTHUSIAST&descSize=15&descAlignY=60&animation=fadeIn&stroke=22D3EE&strokeWidth=1" width="100%" alt="Suvam Mistry cyberpunk developer banner"/>
 
@@ -64,22 +65,8 @@ I enjoy experimenting with frontend design, programming languages, and tools tha
 <img src="https://skillicons.dev/icons?i=css" height="48" alt="CSS3"/></a>
 <img src="https://skillicons.dev/icons?i=js" height="48" alt="JavaScript"/>
 <img src="https://skillicons.dev/icons?i=react" height="48" alt="React"/>
-<a href="https://angular.dev/"><img src="https://skillicons.dev/icons?i=angular" height="48" alt="Angular"/></a>
-
-
-<a href="https://www.python.org/">
-  <img src="assets/python.gif" width="65" alt="Animated Python"/>
-</a>
-<a href="https://www.java.com/">
-  <img src="assets/java.gif" width="65" alt="Animated Java"/>
-</a>
-<a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
-  <img src="assets/csharp.gif" width="65" alt="Animated C Sharp"/>
-</a>
-
-</div>
-
-<div align="center">
+<a href="https://angular.dev/">
+<img src="https://skillicons.dev/icons?i=angular" height="48" alt="Angular"/></a>
   
 ### 🧠 PROGRAMMING LANGUAGES
 
@@ -126,15 +113,13 @@ I enjoy experimenting with frontend design, programming languages, and tools tha
 | ⚡ Developer Experiments | Small applications and experiments to learn new technologies |
 | 🧠 Programming Projects | Practical projects focused on software development |
 
-**Want to feature your best work here?** Replace these general categories with your actual repository names and descriptions.
-
 For example:
 
-- `RedExpress Pro` — RedExpress Pro is a Progressive Web Application (PWA) designed to provide a fast and seamless bus booking experience. It operates on a custom Python HTTP backend server to manage API requests efficiently
-- `Cyber Academy` — an IT learning and quiz platform.
-- `Clinic Management System` — a software project for clinic workflows.
-
-Only keep projects that are published or that you genuinely want to showcase.
+| Project | Description | Technology Focus |
+|---|---|---|
+| **[RedExpress Pro](YOUR_LINK_HERE)** | A Progressive Web Application (PWA) designed to provide a fast and seamless bus booking experience, operating on a custom Python HTTP backend server for efficient API requests. | Full-Stack, Python, PWA |
+| **[Cyber Academy](YOUR_LINK_HERE)** | An interactive IT learning and quiz platform designed to enhance technical knowledge through assessment. | Frontend, Education Tech |
+| **[Clinic Management System](YOUR_LINK_HERE)** | A comprehensive software project designed to streamline and manage digital clinic workflows and patient data. | Software Engineering |
 
 ---
 
@@ -142,8 +127,12 @@ Only keep projects that are published or that you genuinely want to showcase.
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=suvam-m09&show_icons=true&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=A78BFA&text_color=CBD5E1&rank_icon=github&include_all_commits=true" alt="GitHub profile statistics"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suvam-m09&layout=compact&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=CBD5E1&langs_count=8" alt="Most-used programming languages"/>
+![Suvam's GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=suvam-m09&show_icons=true&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=A78BFA&text_color=CBD5E1&rank_icon=github&include_all_commits=true)
+
+<div align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=suvam-m09&layout=donut&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=CBD5E1&v=1" alt="Most-used programming languages" />
+</div>
+
 
 <br/><br/>
 
@@ -195,4 +184,3 @@ Only keep projects that are published or that you genuinely want to showcase.
 </div>
 
 <!-- End of README -->
-
