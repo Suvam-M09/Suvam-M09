@@ -117,7 +117,7 @@ For example:
 
 | Project | Description | Technology Focus |
 |---|---|---|
-| **[RedExpress Pro](YOUR_LINK_HERE)** | A Progressive Web Application (PWA) designed to provide a fast and seamless bus booking experience, operating on a custom Python HTTP backend server for efficient API requests. | Full-Stack, Python, PWA |
+| **[RedExpress Pro](https://github.com/Suvam-M09/Red_Bus_Pro_Project)** | A Progressive Web Application (PWA) designed to provide a fast and seamless bus booking experience, operating on a custom Python HTTP backend server for efficient API requests. | Full-Stack, Python, PWA |
 | **[Cyber Academy](YOUR_LINK_HERE)** | An interactive IT learning and quiz platform designed to enhance technical knowledge through assessment. | Frontend, Education Tech |
 | **[Clinic Management System](YOUR_LINK_HERE)** | A comprehensive software project designed to streamline and manage digital clinic workflows and patient data. | Software Engineering |
 
@@ -154,11 +154,17 @@ For example:
 
 ## `06 // DEVELOPER_PHILOSOPHY`
 
-<div align="center">
 
-> "Great software is built one idea, one experiment, and one improvement at a time."
 
-**Think creatively. Code intelligently. Keep improving.**
+> <i>*"I believe in building resilient, offline-first experiences and pushing the boundaries of web technologies. Every line of code is an opportunity to solve a problem more elegantly than the last.I don't just write code; I engineer resilient digital experiences focused on performance, scalability, and the end-user."*
+
+<br/>
+
+**`Think Creatively`** ⚡ **`Code Intelligently`** 🧠 **`Iterate Relentlessly`** 🚀
+*   🚀 **Performance & Offline-First:** I specialize in building Progressive Web Apps (PWAs) utilizing local storage, IndexedDB, and Service Workers to ensure applications remain fully functional even on poor network conditions.
+*   🧠 **AI Integration:** Practical experience deploying local AI models and integrating APIs (Gemini, Hugging Face) to add intelligent, conversational, and predictive features to modern web applications.
+*   🎨 **Design Engineering:** Strong focus on modern UI/UX principles, specifically dark-themed interfaces and glassmorphism, ensuring applications are both visually striking and accessible.
+*   ⚡ **Full-Stack Problem Solving:** From configuring custom Python HTTP backend servers and routing local caches, to dynamic UPI QR generation and SMS integrations, I build end-to-end solutions.
 
 </div>
 
@@ -169,11 +175,18 @@ For example:
 <div align="center">
 
 <a href="mailto:suvamrkmscc623@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-GET%20IN%20TOUCH-0891B2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Suvam"/>
+  <img src="https://img.shields.io/badge/EMAIL-CONTACT_ME-0891B2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Suvam"/>
+</a>
+<a href="https://drive.google.com/file/d/1Mt9vm6y6SgO0V9i2f4Z0V1FgENRgIknS/view?usp=drive_link">
+  <img src="https://img.shields.io/badge/RESUME-VIEW_MY_CV-E11D48?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Download Resume"/>
 </a>
 <a href="https://github.com/suvam-m09">
-<img src="https://img.shields.io/badge/GITHUB-FOLLOW%20MY%20JOURNEY-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/>
+  <img src="https://img.shields.io/badge/NETWORK-GITHUB-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/>
 </a>
+<a href="www.linkedin.com/in/suvam-mistry-89682536b">
+  <img src="https://img.shields.io/badge/CONNECT-LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
+</a>
+
 
 <br/><br/>
 
